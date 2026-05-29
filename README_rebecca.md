@@ -164,8 +164,7 @@ This opens a browser-based model interface. The user can adjust the random seed,
 
 The screenshot below shows the Solara-based GUI after the model is running. The interface allows the user to change the random seed, number of agents, population scenario, and R5 structured pairing intervention setting. It also displays the campus grid and tracks model outcomes over time.
 
-![Interactive GUI Screenshot](figures/gui_screenshot.png)
-
+![Interactive GUI Screenshot](https://raw.githubusercontent.com/Xuanxuan-zi/ABM_Rebecca_final/main/OneScreenshot_inteface.png)
 ## How to Run Batch Experiments
 
 To run the batch experiments, use:
